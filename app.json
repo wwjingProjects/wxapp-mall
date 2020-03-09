@@ -10,7 +10,7 @@
       "page/component/list/list"
   ],
   "window": {
-    "navigationBarTextStyle": "#ffffff",
+    "navigationBarTextStyle": "black",
     "navigationBarTitleText": "零食商贩",
     "navigationBarBackgroundColor": "#AB956D",
     "backgroundColor": "#eeeeee",
@@ -19,7 +19,7 @@
   "tabBar": {
     "color": "#b7b7b7",
     "selectedColor": "#AB956D",
-    "borderStyle": "#f5f5f5",
+    "borderStyle": "black",
     "backgroundColor": "#f5f5f5",
     "list": [{
       "pagePath": "page/component/index",
